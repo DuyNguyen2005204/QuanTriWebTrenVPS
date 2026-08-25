@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|c:\\users\\trant\\onedrive\\documents\\doantotnghiep_pyt_website.mvc\\webshop\\areas\\admin\\controllers\\adminlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|solutionrelative:webshop\\areas\\admin\\controllers\\adminlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|c:\\users\\trant\\onedrive\\documents\\doantotnghiep_pyt_website.mvc\\webshop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|solutionrelative:webshop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|c:\\users\\trant\\onedrive\\documents\\doantotnghiep_pyt_website.mvc\\webshop\\areas\\admin\\controllers\\admincategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|solutionrelative:webshop\\areas\\admin\\controllers\\admincategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|c:\\users\\trant\\onedrive\\documents\\doantotnghiep_pyt_website.mvc\\webshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|solutionrelative:webshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|c:\\users\\trant\\onedrive\\documents\\doantotnghiep_pyt_website.mvc\\webshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|solutionrelative:webshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|c:\\users\\trant\\onedrive\\documents\\doantotnghiep_pyt_website.mvc\\webshop\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|solutionrelative:webshop\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|c:\\users\\trant\\onedrive\\documents\\doantotnghiep_pyt_website.mvc\\webshop\\areas\\admin\\views\\adminlogin\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|solutionrelative:webshop\\areas\\admin\\views\\adminlogin\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|c:\\users\\trant\\onedrive\\documents\\doantotnghiep_pyt_website.mvc\\webshop\\areas\\admin\\views\\admincustomers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5B4C020-7182-467C-B1F2-A8BC77B1BCD2}|WebShop\\WebShop.csproj|solutionrelative:webshop\\areas\\admin\\views\\admincustomers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminLoginController.cs",
+              "DocumentMoniker": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\Areas\\Admin\\Controllers\\AdminLoginController.cs",
+              "RelativeDocumentMoniker": "WebShop\\Areas\\Admin\\Controllers\\AdminLoginController.cs",
+              "ToolTip": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\Areas\\Admin\\Controllers\\AdminLoginController.cs",
+              "RelativeToolTip": "WebShop\\Areas\\Admin\\Controllers\\AdminLoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:08:25.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:08:16.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "RelativeDocumentMoniker": "WebShop\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "ToolTip": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "RelativeToolTip": "WebShop\\Areas\\Admin\\Controllers\\AdminCategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:08:14.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\Program.cs",
+              "RelativeDocumentMoniker": "WebShop\\Program.cs",
+              "ToolTip": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\Program.cs",
+              "RelativeToolTip": "WebShop\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T14:03:12.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\appsettings.json",
+              "RelativeDocumentMoniker": "WebShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\appsettings.json",
+              "RelativeToolTip": "WebShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-19T03:04:43.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\Views\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Views\\Accounts\\Login.cshtml",
+              "ToolTip": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\Views\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "WebShop\\Views\\Accounts\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T09:09:57.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\Areas\\Admin\\Views\\AdminLogin\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Areas\\Admin\\Views\\AdminLogin\\AdminLogin.cshtml",
+              "ToolTip": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\Areas\\Admin\\Views\\AdminLogin\\AdminLogin.cshtml",
+              "RelativeToolTip": "WebShop\\Areas\\Admin\\Views\\AdminLogin\\AdminLogin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T09:07:30.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\Areas\\Admin\\Views\\AdminCustomers\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebShop\\Areas\\Admin\\Views\\AdminCustomers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\Areas\\Admin\\Views\\AdminCustomers\\Details.cshtml",
+              "RelativeToolTip": "WebShop\\Areas\\Admin\\Views\\AdminCustomers\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T09:06:36.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

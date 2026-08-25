@@ -104,36 +104,7 @@
 <!-- Begin Shipping Area -->
 <!-- Shipping Area End Here -->
 <!-- Begin Product Area -->
-<div class="product-area section-space-top-100">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <ul class="filter__controls">
-                    <li class="active" data-filter="*">Tất cả sản phẩm</li>
-                    @foreach (var item in Model.Products)
-                    {
-                        <li><a href="/@item.category.CatName" style="color: black">@item.category.CatName</a></li>
 
-                    }
-                </ul>
-                <div class="tab-content" id="myTabContent">
-                    <div class="tab-pane fade show active" id="all-items" role="tabpanel" aria-labelledby="all-items-tab">
-                        @await Html.PartialAsync("ListProduct", allProduct)
-                    </div>
-
-                    @foreach (var item in Model.Products)
-                    {
-                        <div class="tab-pane fade" id="@item.category.Alias" role="tabpanel" aria-labelledby="fresh-fruits-tab">
-                            @await Html.PartialAsync("ListProduct", item.lsProducts)
-                        </div>
-                    }
-
-
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 <!-- Product Area End Here -->
 <!-- Begin Product Area -->
 <!-- Begin Banner Area -->

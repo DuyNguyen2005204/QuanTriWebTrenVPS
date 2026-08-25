@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\WebsiteThoiTrang\\WebsiteThoiTrang\\WebShop\\WebShop.csproj": {}
+    "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\WebShop.csproj": {}
   },
   "projects": {
-    "F:\\WebsiteThoiTrang\\WebsiteThoiTrang\\WebShop\\WebShop.csproj": {
+    "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\WebShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\WebsiteThoiTrang\\WebsiteThoiTrang\\WebShop\\WebShop.csproj",
+        "projectUniqueName": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\WebShop.csproj",
         "projectName": "WebShop",
-        "projectPath": "F:\\WebsiteThoiTrang\\WebsiteThoiTrang\\WebShop\\WebShop.csproj",
-        "packagesPath": "C:\\Users\\dienmayxanh\\.nuget\\packages\\",
-        "outputPath": "F:\\WebsiteThoiTrang\\WebsiteThoiTrang\\WebShop\\obj\\",
+        "projectPath": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\WebShop.csproj",
+        "packagesPath": "C:\\Users\\trant\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trant\\OneDrive\\Documents\\Doantotnghiep_pyt_website.mvc\\WebShop\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dienmayxanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\trant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net5.0": {
@@ -90,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -10,7 +10,7 @@
                     <th>Họ và tên</th>
                     <th>Trạng thái</th>
                     <th>Tổng tiền</th>
-                    <th>Chức năng</th>
+                 
                 </tr>
                 @foreach (var item in Model)
                 {
@@ -20,9 +20,7 @@
                         <td>@item.Customer.FullName</td>
                         <td>@item.TransactStatus.Status</td>
                         <td>@item.TotalMoney.Value.ToString("#,##0") VNĐ</td>
-                        <td>
-                            <a href="javascript:void(0)" class="btn btn-warning btn-primary-hover"><span>Xem đơn hàng</span></a>
-                        </td>
+                      >
                     </tr>
                 }
             </tbody>

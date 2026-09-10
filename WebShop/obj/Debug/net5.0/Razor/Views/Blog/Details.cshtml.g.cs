@@ -22,10 +22,10 @@ using WebShop
 #line 2 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Views\_ViewImports.cshtml"
 using WebShop.Models
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"03e90f5b9c2e55f6f026b363079b56316b849d254d2143c40091f524cc015561", @"/Views/Blog/Details.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"2454517d99edfb35bbc85b1c078a3af78c358f2ed592677f7d34ebb910827d85", @"/Views/_ViewImports.cshtml")]
     #nullable restore

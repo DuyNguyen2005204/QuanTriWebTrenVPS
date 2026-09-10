@@ -28,9 +28,9 @@ using WebShop.Models
 #line 1 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Areas\Admin\Views\AdminOrders\Index.cshtml"
  using PagedList.Core.Mvc;
 
-#line default
-#line hidden
 #nullable disable
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb", @"/Areas/Admin/Views/AdminOrders/Index.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"86394df345bb1769de711a5c8a6de44ad3d550d539317194276e3293e1ff5e4d", @"/Areas/Admin/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -107,7 +107,7 @@ using WebShop.Models
 #nullable disable
 
             WriteLiteral("<div class=\"page-header\">\r\n\r\n    <div class=\"header-sub-title\">\r\n        <nav class=\"breadcrumb breadcrumb-dash\">\r\n            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb9923", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb9931", async() => {
                 WriteLiteral("<i class=\"anticon anticon-home m-r-5\"></i>Home");
             }
             );
@@ -150,7 +150,7 @@ using WebShop.Models
             </div>
             <div class=""col-lg-4 text-right"">
                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb12449", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb12457", async() => {
                 WriteLiteral("<i class=\"far fa-plus-square m-r-5 fa-lg\"></i><span>Thêm mới đơn hàng</span>");
             }
             );
@@ -248,7 +248,7 @@ using WebShop.Models
 #nullable disable
             );
             WriteLiteral("\r\n\r\n                                </td>\r\n\r\n\r\n\r\n\r\n                                <td>\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb17396", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb17404", async() => {
                 WriteLiteral("<i class=\"far fa-eye m-r-5 fa-lg\"></i>Xem");
             }
             );
@@ -286,7 +286,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb20321", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb20329", async() => {
                 WriteLiteral("<i class=\"fas fa-sync m-r-5 fa-lg\"></i>Cập nhật trạng thái");
             }
             );
@@ -324,7 +324,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb23272", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb23280", async() => {
                 WriteLiteral("<i class=\"far fa-edit m-r-5 fa-lg\"></i>Sửa");
             }
             );
@@ -362,7 +362,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb26199", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb26207", async() => {
                 WriteLiteral("<i class=\"far fa-trash-alt m-r-5 fa-lg\"></i>Xóa");
             }
             );
@@ -411,7 +411,7 @@ using WebShop.Models
 #nullable disable
 
             WriteLiteral("\r\n\r\n                </tbody>\r\n            </table>\r\n            <div aria-label=\"Page navigation example\">\r\n                <ul class=\"pagination\">\r\n                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("pager", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb29686", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("pager", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "6c6cc27d5342ccbbc13ef891f216452016e69a6ba964c8f18dce00813d3501bb29694", async() => {
             }
             );
             __PagedList_Core_Mvc_PagerTagHelper = CreateTagHelper<global::PagedList.Core.Mvc.PagerTagHelper>();

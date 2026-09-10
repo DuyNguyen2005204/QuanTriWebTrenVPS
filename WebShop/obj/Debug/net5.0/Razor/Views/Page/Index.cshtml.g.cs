@@ -28,9 +28,9 @@ using WebShop.Models
 #line 1 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Views\Page\Index.cshtml"
  using PagedList.Core.Mvc;
 
-#line default
-#line hidden
 #nullable disable
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"cacb577726beedcb4d505d7ec14fa11adbed660d4dd0a9222c7c524e96dcd104", @"/Views/Page/Index.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"2454517d99edfb35bbc85b1c078a3af78c358f2ed592677f7d34ebb910827d85", @"/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -131,7 +131,7 @@ using WebShop.Models
                         <div class=""carousel-inner"">
                             <div class=""carousel-item active"">
                                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "cacb577726beedcb4d505d7ec14fa11adbed660d4dd0a9222c7c524e96dcd10411094", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "cacb577726beedcb4d505d7ec14fa11adbed660d4dd0a9222c7c524e96dcd10411102", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -148,7 +148,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                            </div>\r\n                            <div class=\"carousel-item\">\r\n                                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "cacb577726beedcb4d505d7ec14fa11adbed660d4dd0a9222c7c524e96dcd10412530", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "cacb577726beedcb4d505d7ec14fa11adbed660d4dd0a9222c7c524e96dcd10412538", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -165,7 +165,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                            </div>\r\n                            <div class=\"carousel-item\">\r\n                                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "cacb577726beedcb4d505d7ec14fa11adbed660d4dd0a9222c7c524e96dcd10413966", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "cacb577726beedcb4d505d7ec14fa11adbed660d4dd0a9222c7c524e96dcd10413974", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -229,7 +229,7 @@ using WebShop.Models
             , 4199, 4, false);
             EndWriteAttribute();
             WriteLiteral(">\r\n                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "cacb577726beedcb4d505d7ec14fa11adbed660d4dd0a9222c7c524e96dcd10417393", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "cacb577726beedcb4d505d7ec14fa11adbed660d4dd0a9222c7c524e96dcd10417401", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -313,7 +313,7 @@ using WebShop.Models
 #nullable disable
 
             WriteLiteral("\r\n\r\n                <div class=\"col-lg-12\">\r\n                    <div class=\"pagination-area pt-10\">\r\n                        <nav aria-label=\"Page navigation example\">\r\n                            <ul class=\"pagination\">\r\n                                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("pager", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "cacb577726beedcb4d505d7ec14fa11adbed660d4dd0a9222c7c524e96dcd10422384", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("pager", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "cacb577726beedcb4d505d7ec14fa11adbed660d4dd0a9222c7c524e96dcd10422392", async() => {
             }
             );
             __PagedList_Core_Mvc_PagerTagHelper = CreateTagHelper<global::PagedList.Core.Mvc.PagerTagHelper>();

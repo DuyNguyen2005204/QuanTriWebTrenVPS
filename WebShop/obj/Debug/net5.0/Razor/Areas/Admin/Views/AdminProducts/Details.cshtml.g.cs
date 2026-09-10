@@ -22,10 +22,10 @@ using WebShop
 #line 2 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Areas\Admin\Views\_ViewImports.cshtml"
 using WebShop.Models
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"24ceda6d62fd14da5cc928d6e26344742a5811f3c3348cbef2753bfe9b5f539f", @"/Areas/Admin/Views/AdminProducts/Details.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"86394df345bb1769de711a5c8a6de44ad3d550d539317194276e3293e1ff5e4d", @"/Areas/Admin/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -84,7 +84,7 @@ using WebShop.Models
 #nullable disable
 
             WriteLiteral("\r\n<div class=\"page-header\">\r\n\r\n    <div class=\"header-sub-title\">\r\n        <nav class=\"breadcrumb breadcrumb-dash\">\r\n            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24ceda6d62fd14da5cc928d6e26344742a5811f3c3348cbef2753bfe9b5f539f6676", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24ceda6d62fd14da5cc928d6e26344742a5811f3c3348cbef2753bfe9b5f539f6684", async() => {
                 WriteLiteral("<i class=\"anticon anticon-home m-r-5\"></i>Home");
             }
             );
@@ -105,7 +105,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24ceda6d62fd14da5cc928d6e26344742a5811f3c3348cbef2753bfe9b5f539f8398", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24ceda6d62fd14da5cc928d6e26344742a5811f3c3348cbef2753bfe9b5f539f8406", async() => {
                 WriteLiteral("Danh sách sản phẩm");
             }
             );
@@ -282,7 +282,7 @@ using WebShop.Models
 #nullable disable
             );
             WriteLiteral("</td>\r\n                    </tr>\r\n                    <tr>\r\n                        <td>Ảnh đại diện:</td>\r\n                        <td>\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "24ceda6d62fd14da5cc928d6e26344742a5811f3c3348cbef2753bfe9b5f539f17010", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "24ceda6d62fd14da5cc928d6e26344742a5811f3c3348cbef2753bfe9b5f539f17018", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -333,7 +333,7 @@ using WebShop.Models
 #nullable disable
             );
             WriteLiteral("</td>\r\n                    </tr>\r\n                </tbody>\r\n            </table>\r\n        </div>\r\n    </div>\r\n</div>\r\n<div class=\"text-left\">\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24ceda6d62fd14da5cc928d6e26344742a5811f3c3348cbef2753bfe9b5f539f20433", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24ceda6d62fd14da5cc928d6e26344742a5811f3c3348cbef2753bfe9b5f539f20441", async() => {
                 WriteLiteral("<i class=\"fas fa-undo m-r-5 fa-lg\"></i>Quay lại");
             }
             );

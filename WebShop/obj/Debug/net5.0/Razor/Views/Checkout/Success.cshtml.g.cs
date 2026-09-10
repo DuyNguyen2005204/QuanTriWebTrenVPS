@@ -22,10 +22,10 @@ using WebShop
 #line 2 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Views\_ViewImports.cshtml"
 using WebShop.Models
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"1032743c64093c78b2b804c7c5ba9409fbc7fb8d600f964a930cf914e862094b", @"/Views/Checkout/Success.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"2454517d99edfb35bbc85b1c078a3af78c358f2ed592677f7d34ebb910827d85", @"/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -60,7 +60,7 @@ using WebShop.Models
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<style>\r\n    h6:hover {\r\n        text-decoration: underline;\r\n    }\r\n</style>\r\n<div class=\"check-success\" style=\"text-align:center\">\r\n\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "1032743c64093c78b2b804c7c5ba9409fbc7fb8d600f964a930cf914e862094b4605", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "1032743c64093c78b2b804c7c5ba9409fbc7fb8d600f964a930cf914e862094b4613", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

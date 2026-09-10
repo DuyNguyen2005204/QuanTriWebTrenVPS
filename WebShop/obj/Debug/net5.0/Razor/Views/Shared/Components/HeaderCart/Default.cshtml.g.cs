@@ -22,10 +22,10 @@ using WebShop
 #line 2 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Views\_ViewImports.cshtml"
 using WebShop.Models
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"18b8a9fda212dc5cc92fe9ebd2f0b1ceeeef1d3a4b5e389a60d5d1a310523fdf", @"/Views/Shared/Components/HeaderCart/Default.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"2454517d99edfb35bbc85b1c078a3af78c358f2ed592677f7d34ebb910827d85", @"/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -105,7 +105,7 @@ using WebShop.Models
             , 787, 4, false);
             EndWriteAttribute();
             WriteLiteral(" class=\"product-item_img\">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "18b8a9fda212dc5cc92fe9ebd2f0b1ceeeef1d3a4b5e389a60d5d1a310523fdf5782", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "18b8a9fda212dc5cc92fe9ebd2f0b1ceeeef1d3a4b5e389a60d5d1a310523fdf5790", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

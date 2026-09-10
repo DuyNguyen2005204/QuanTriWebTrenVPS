@@ -38,8 +38,19 @@
                 <div class="col-lg-6 col-md-5">
                     <div class="header__top__right">
                         <div class="header__top__links">
-                            <a href="/dang-nhap.html?returnUrl=/checkout.html">Đăng nhập</a>
-                            <a href="dang-ky.html">Đăng ký</a>
+                            @if (User.Identity != null && User.Identity.IsAuthenticated)
+                            {
+                                <a href="/tai-khoan-cua-toi.html">
+                                    Xin chào, @User.Identity.Name
+                                </a>
+
+                                <a href="/dang-xuat.html">Đăng xuất</a>
+                            }
+                            else
+                            {
+                                <a href="/dang-nhap.html?returnUrl=/checkout.html">Đăng nhập</a>
+                                <a href="/dang-ky.html">Đăng ký</a>
+                            }
                         </div>
                         <div class="header__top__hover">
                             <ul class="text-lg-left">
@@ -60,7 +71,7 @@
         <div class="row">
             <div class="col-lg-3 col-md-3">
                 <div class="header__logo">
-                    <a href="./index.html"><img src=~/assets/images/logo/logoadmin.jpg /></a>
+                    <a href="./index.html">  <img src="~/assets/images/logo/images.jpg" alt="Fashion Designer" style="width: 130px; height: auto;object-fit: contain;margin-top: 15px;"></a>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6">

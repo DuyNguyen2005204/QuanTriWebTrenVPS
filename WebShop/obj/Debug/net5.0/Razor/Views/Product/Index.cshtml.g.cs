@@ -22,10 +22,10 @@ using WebShop
 #line 2 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Views\_ViewImports.cshtml"
 using WebShop.Models
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"58b69cf2b8f388622bce146667c3d0ec7dc31d4c3364ef166b5e9096d575bffe", @"/Views/Product/Index.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"2454517d99edfb35bbc85b1c078a3af78c358f2ed592677f7d34ebb910827d85", @"/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -281,7 +281,7 @@ using WebShop.Models
                                     <p>Sort by Price:</p>
                                     <select>
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58b69cf2b8f388622bce146667c3d0ec7dc31d4c3364ef166b5e9096d575bffe17294", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58b69cf2b8f388622bce146667c3d0ec7dc31d4c3364ef166b5e9096d575bffe17302", async() => {
                 WriteLiteral("Low To High");
             }
             );
@@ -297,7 +297,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58b69cf2b8f388622bce146667c3d0ec7dc31d4c3364ef166b5e9096d575bffe18523", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58b69cf2b8f388622bce146667c3d0ec7dc31d4c3364ef166b5e9096d575bffe18531", async() => {
                 WriteLiteral("$0 - $55");
             }
             );
@@ -313,7 +313,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58b69cf2b8f388622bce146667c3d0ec7dc31d4c3364ef166b5e9096d575bffe19749", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58b69cf2b8f388622bce146667c3d0ec7dc31d4c3364ef166b5e9096d575bffe19757", async() => {
                 WriteLiteral("$55 - $100");
             }
             );
@@ -357,7 +357,7 @@ using WebShop.Models
             , 12996, 4, false);
             EndWriteAttribute();
             WriteLiteral(">\r\n                                                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "58b69cf2b8f388622bce146667c3d0ec7dc31d4c3364ef166b5e9096d575bffe22440", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "58b69cf2b8f388622bce146667c3d0ec7dc31d4c3364ef166b5e9096d575bffe22448", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -462,7 +462,7 @@ using WebShop.Models
 #nullable disable
 
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58b69cf2b8f388622bce146667c3d0ec7dc31d4c3364ef166b5e9096d575bffe28015", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58b69cf2b8f388622bce146667c3d0ec7dc31d4c3364ef166b5e9096d575bffe28023", async() => {
                 WriteLiteral("\r\n    Previous\r\n");
             }
             );
@@ -534,7 +534,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58b69cf2b8f388622bce146667c3d0ec7dc31d4c3364ef166b5e9096d575bffe32526", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58b69cf2b8f388622bce146667c3d0ec7dc31d4c3364ef166b5e9096d575bffe32534", async() => {
                 WriteLiteral("\r\n    Next\r\n");
             }
             );

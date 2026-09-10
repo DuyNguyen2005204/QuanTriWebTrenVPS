@@ -22,10 +22,10 @@ using WebShop
 #line 2 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Areas\Admin\Views\_ViewImports.cshtml"
 using WebShop.Models
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"9c940ac28f8c18f553235da2e356ca684f32343eb0ddb5101f3a5f68fef79aab", @"/Areas/Admin/Views/AdminLogin/AdminLogin.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"86394df345bb1769de711a5c8a6de44ad3d550d539317194276e3293e1ff5e4d", @"/Areas/Admin/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -103,7 +103,7 @@ using WebShop.Models
 #nullable disable
 
             WriteLiteral("\r\n\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9c940ac28f8c18f553235da2e356ca684f32343eb0ddb5101f3a5f68fef79aab9287", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9c940ac28f8c18f553235da2e356ca684f32343eb0ddb5101f3a5f68fef79aab9295", async() => {
                 WriteLiteral(@"
     <meta charset=""UTF-8"">
     <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
@@ -126,7 +126,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n\r\n\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9c940ac28f8c18f553235da2e356ca684f32343eb0ddb5101f3a5f68fef79aab10855", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9c940ac28f8c18f553235da2e356ca684f32343eb0ddb5101f3a5f68fef79aab10863", async() => {
                 WriteLiteral(@"
 
     <div id=""auth"" style=""background-color: #FAEAEA"">
@@ -135,7 +135,7 @@ using WebShop.Models
                 <div id=""auth-left"">
                     <div class=""auth-logo"" style=""text-align:center"">
                         <a href=""index.html"">");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "9c940ac28f8c18f553235da2e356ca684f32343eb0ddb5101f3a5f68fef79aab11466", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "9c940ac28f8c18f553235da2e356ca684f32343eb0ddb5101f3a5f68fef79aab11474", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -151,9 +151,9 @@ using WebShop.Models
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("</a>\r\n                    </div>\r\n                    <br />\r\n\r\n                    <div class=\"card\">\r\n                        <div class=\"card-body mt-3\">\r\n                            ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9c940ac28f8c18f553235da2e356ca684f32343eb0ddb5101f3a5f68fef79aab12950", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9c940ac28f8c18f553235da2e356ca684f32343eb0ddb5101f3a5f68fef79aab12958", async() => {
                     WriteLiteral("\r\n                                <div class=\"form-group position-relative has-icon-left mb-4\">\r\n                                    ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "9c940ac28f8c18f553235da2e356ca684f32343eb0ddb5101f3a5f68fef79aab13376", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "9c940ac28f8c18f553235da2e356ca684f32343eb0ddb5101f3a5f68fef79aab13384", async() => {
                     }
                     );
                     __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -186,7 +186,7 @@ using WebShop.Models
                                 </div>
                                 <div class=""form-group position-relative has-icon-left mb-4"">
                                     ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "9c940ac28f8c18f553235da2e356ca684f32343eb0ddb5101f3a5f68fef79aab15875", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "9c940ac28f8c18f553235da2e356ca684f32343eb0ddb5101f3a5f68fef79aab15883", async() => {
                     }
                     );
                     __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();

@@ -28,9 +28,9 @@ using WebShop.Models
 #line 1 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Areas\Admin\Views\AdminPages\Index.cshtml"
  using PagedList.Core.Mvc;
 
-#line default
-#line hidden
 #nullable disable
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"d123413a780b1143aae18637443a65546a3d275f5178629530770c288547e42c", @"/Areas/Admin/Views/AdminPages/Index.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"86394df345bb1769de711a5c8a6de44ad3d550d539317194276e3293e1ff5e4d", @"/Areas/Admin/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -106,7 +106,7 @@ using WebShop.Models
 #nullable disable
 
             WriteLiteral("\r\n<div class=\"page-header\">\r\n\r\n    <div class=\"header-sub-title\">\r\n        <nav class=\"breadcrumb breadcrumb-dash\">\r\n            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d123413a780b1143aae18637443a65546a3d275f5178629530770c288547e42c9336", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d123413a780b1143aae18637443a65546a3d275f5178629530770c288547e42c9344", async() => {
                 WriteLiteral("<i class=\"anticon anticon-home m-r-5\"></i>Home");
             }
             );
@@ -148,7 +148,7 @@ using WebShop.Models
             </div>
             <div class=""col-lg-4 text-right"">
                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d123413a780b1143aae18637443a65546a3d275f5178629530770c288547e42c11792", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d123413a780b1143aae18637443a65546a3d275f5178629530770c288547e42c11800", async() => {
                 WriteLiteral("<i class=\"far fa-plus-square m-r-5 fa-lg\"></i><span>Thêm trang(Pages)</span>");
             }
             );
@@ -255,7 +255,7 @@ using WebShop.Models
 #nullable disable
 
             WriteLiteral("\r\n\r\n\r\n                                </td>\r\n\r\n                                <td>\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d123413a780b1143aae18637443a65546a3d275f5178629530770c288547e42c16807", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d123413a780b1143aae18637443a65546a3d275f5178629530770c288547e42c16815", async() => {
                 WriteLiteral("<i class=\"far fa-eye m-r-5 fa-lg\"></i>Xem");
             }
             );
@@ -293,7 +293,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d123413a780b1143aae18637443a65546a3d275f5178629530770c288547e42c19729", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d123413a780b1143aae18637443a65546a3d275f5178629530770c288547e42c19737", async() => {
                 WriteLiteral("<i class=\"far fa-edit m-r-5 fa-lg\"></i>Sửa");
             }
             );
@@ -331,7 +331,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d123413a780b1143aae18637443a65546a3d275f5178629530770c288547e42c22653", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d123413a780b1143aae18637443a65546a3d275f5178629530770c288547e42c22661", async() => {
                 WriteLiteral("<i class=\"far fa-trash-alt m-r-5 fa-lg\"></i>Xóa");
             }
             );
@@ -380,7 +380,7 @@ using WebShop.Models
 #nullable disable
 
             WriteLiteral("\r\n\r\n                </tbody>\r\n            </table>\r\n            <div aria-label=\"Page navigation example\">\r\n                <ul class=\"pagination\">\r\n                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("pager", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "d123413a780b1143aae18637443a65546a3d275f5178629530770c288547e42c26136", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("pager", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "d123413a780b1143aae18637443a65546a3d275f5178629530770c288547e42c26144", async() => {
             }
             );
             __PagedList_Core_Mvc_PagerTagHelper = CreateTagHelper<global::PagedList.Core.Mvc.PagerTagHelper>();

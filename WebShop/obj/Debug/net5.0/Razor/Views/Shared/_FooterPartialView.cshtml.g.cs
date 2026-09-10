@@ -22,10 +22,10 @@ using WebShop
 #line 2 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Views\_ViewImports.cshtml"
 using WebShop.Models
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"9595836d2ae757a94a4ed6262611e81172d303ab9dc50d01e2f662c5a481cee7", @"/Views/Shared/_FooterPartialView.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"2454517d99edfb35bbc85b1c078a3af78c358f2ed592677f7d34ebb910827d85", @"/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -69,7 +69,7 @@ using WebShop.Models
                 <div class=""footer__about"">
                     <div class=""footer__logo"">
                         <a href=""#"">");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "9595836d2ae757a94a4ed6262611e81172d303ab9dc50d01e2f662c5a481cee75076", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "9595836d2ae757a94a4ed6262611e81172d303ab9dc50d01e2f662c5a481cee75084", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -88,7 +88,7 @@ using WebShop.Models
                         Đặt sự hài lòng của khách hàng là ưu tiên số 1 trong mọi suy nghĩ hành động của mình”
                         là sứ mệnh, là triết lý, chiến lược. luôn cùng Mật Xinh tiến bước</p>
                     <a href=""#"">");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "9595836d2ae757a94a4ed6262611e81172d303ab9dc50d01e2f662c5a481cee76447", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "9595836d2ae757a94a4ed6262611e81172d303ab9dc50d01e2f662c5a481cee76455", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -138,7 +138,7 @@ using WebShop.Models
                             về hàng mới về
                         </p>
                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9595836d2ae757a94a4ed6262611e81172d303ab9dc50d01e2f662c5a481cee79408", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9595836d2ae757a94a4ed6262611e81172d303ab9dc50d01e2f662c5a481cee79416", async() => {
                 WriteLiteral("\r\n                            <input type=\"text\" placeholder=\"Your email\">\r\n                            <button type=\"submit\"><span class=\"icon_mail_alt\"></span></button>\r\n                        ");
             }
             );

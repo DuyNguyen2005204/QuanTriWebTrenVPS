@@ -22,10 +22,10 @@ using WebShop
 #line 2 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Areas\Admin\Views\_ViewImports.cshtml"
 using WebShop.Models
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"3ea50cc56c35e8ba7cf9e357f359ef07c7ea3fbab1665fd2c80eb11916e0a595", @"/Areas/Admin/Views/Search/ListProductsSearchPartial.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"86394df345bb1769de711a5c8a6de44ad3d550d539317194276e3293e1ff5e4d", @"/Areas/Admin/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -164,7 +164,7 @@ using WebShop.Models
 #nullable disable
 
             WriteLiteral("\r\n            </td>\r\n            <td>\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3ea50cc56c35e8ba7cf9e357f359ef07c7ea3fbab1665fd2c80eb11916e0a5959948", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3ea50cc56c35e8ba7cf9e357f359ef07c7ea3fbab1665fd2c80eb11916e0a5959956", async() => {
                 WriteLiteral("View");
             }
             );
@@ -202,7 +202,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3ea50cc56c35e8ba7cf9e357f359ef07c7ea3fbab1665fd2c80eb11916e0a59512812", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3ea50cc56c35e8ba7cf9e357f359ef07c7ea3fbab1665fd2c80eb11916e0a59512820", async() => {
                 WriteLiteral("Edit");
             }
             );
@@ -240,7 +240,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3ea50cc56c35e8ba7cf9e357f359ef07c7ea3fbab1665fd2c80eb11916e0a59515676", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3ea50cc56c35e8ba7cf9e357f359ef07c7ea3fbab1665fd2c80eb11916e0a59515684", async() => {
                 WriteLiteral("Delete");
             }
             );

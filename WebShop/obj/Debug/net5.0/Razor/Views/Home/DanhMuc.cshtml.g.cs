@@ -28,9 +28,9 @@ using WebShop.Models
 #line 1 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Views\Home\DanhMuc.cshtml"
  using PagedList.Core.Mvc;
 
-#line default
-#line hidden
 #nullable disable
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"bc0729579cf7c049f6a8d79e2eec603c73e762aa49d9ec68c22633677dff2e7f", @"/Views/Home/DanhMuc.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"2454517d99edfb35bbc85b1c078a3af78c358f2ed592677f7d34ebb910827d85", @"/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -113,7 +113,7 @@ using WebShop.Models
             , 1671, 4, false);
             EndWriteAttribute();
             WriteLiteral(">\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "bc0729579cf7c049f6a8d79e2eec603c73e762aa49d9ec68c22633677dff2e7f5955", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "bc0729579cf7c049f6a8d79e2eec603c73e762aa49d9ec68c22633677dff2e7f5963", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

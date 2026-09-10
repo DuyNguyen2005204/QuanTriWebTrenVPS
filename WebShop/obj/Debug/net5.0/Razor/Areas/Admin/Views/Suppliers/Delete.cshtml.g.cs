@@ -22,10 +22,10 @@ using WebShop
 #line 2 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Areas\Admin\Views\_ViewImports.cshtml"
 using WebShop.Models
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"6f751206d99bcb0c588af6cb61b840585578146fcde129b61bb1c6ae95b2d6e2", @"/Areas/Admin/Views/Suppliers/Delete.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"86394df345bb1769de711a5c8a6de44ad3d550d539317194276e3293e1ff5e4d", @"/Areas/Admin/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -87,7 +87,7 @@ using WebShop.Models
 #nullable disable
 
             WriteLiteral("<div class=\"page-header\">\r\n\r\n    <div class=\"header-sub-title\">\r\n        <nav class=\"breadcrumb breadcrumb-dash\">\r\n            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6f751206d99bcb0c588af6cb61b840585578146fcde129b61bb1c6ae95b2d6e27078", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6f751206d99bcb0c588af6cb61b840585578146fcde129b61bb1c6ae95b2d6e27086", async() => {
                 WriteLiteral("<i class=\"anticon anticon-home m-r-5\"></i>Home");
             }
             );
@@ -108,7 +108,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6f751206d99bcb0c588af6cb61b840585578146fcde129b61bb1c6ae95b2d6e28800", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6f751206d99bcb0c588af6cb61b840585578146fcde129b61bb1c6ae95b2d6e28808", async() => {
                 WriteLiteral("Danh sách nhà cung cấp");
             }
             );
@@ -195,9 +195,9 @@ using WebShop.Models
 #nullable disable
             );
             WriteLiteral("</td>\r\n                    </tr>\r\n                    <tr>\r\n                        <td>Xác nhận xóa:</td>\r\n                        <td>\r\n                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6f751206d99bcb0c588af6cb61b840585578146fcde129b61bb1c6ae95b2d6e213569", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6f751206d99bcb0c588af6cb61b840585578146fcde129b61bb1c6ae95b2d6e213577", async() => {
                 WriteLiteral("\r\n                                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "6f751206d99bcb0c588af6cb61b840585578146fcde129b61bb1c6ae95b2d6e213884", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "6f751206d99bcb0c588af6cb61b840585578146fcde129b61bb1c6ae95b2d6e213892", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -222,7 +222,7 @@ using WebShop.Models
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                                <button type=\"submit\" class=\"btn btn-danger btn-tone\"><i class=\"far fa-trash-alt m-r-5 fa-lg\"></i>Xác nhận xóa</button>\r\n                                |\r\n                                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6f751206d99bcb0c588af6cb61b840585578146fcde129b61bb1c6ae95b2d6e215976", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6f751206d99bcb0c588af6cb61b840585578146fcde129b61bb1c6ae95b2d6e215984", async() => {
                     WriteLiteral("<i class=\"fas fa-times m-r-5 fa-lg\"></i>Hủy bỏ");
                 }
                 );

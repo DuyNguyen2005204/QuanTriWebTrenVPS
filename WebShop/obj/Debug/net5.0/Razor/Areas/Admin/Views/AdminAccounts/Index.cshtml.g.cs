@@ -22,10 +22,10 @@ using WebShop
 #line 2 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Areas\Admin\Views\_ViewImports.cshtml"
 using WebShop.Models
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"cfe161d1adb114814342d9c525df975d8201283ab743b2982d784bbc3bb35ac3", @"/Areas/Admin/Views/AdminAccounts/Index.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"86394df345bb1769de711a5c8a6de44ad3d550d539317194276e3293e1ff5e4d", @"/Areas/Admin/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -97,7 +97,7 @@ using WebShop.Models
 #nullable disable
 
             WriteLiteral("\r\n<div class=\"page-header\">\r\n\r\n    <div class=\"header-sub-title\">\r\n        <nav class=\"breadcrumb breadcrumb-dash\">\r\n            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfe161d1adb114814342d9c525df975d8201283ab743b2982d784bbc3bb35ac38627", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfe161d1adb114814342d9c525df975d8201283ab743b2982d784bbc3bb35ac38635", async() => {
                 WriteLiteral("<i class=\"anticon anticon-home m-r-5\"></i>Home");
             }
             );
@@ -131,7 +131,7 @@ using WebShop.Models
             </div>
             <div class=""col-lg-4 text-right"">
                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfe161d1adb114814342d9c525df975d8201283ab743b2982d784bbc3bb35ac310735", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfe161d1adb114814342d9c525df975d8201283ab743b2982d784bbc3bb35ac310743", async() => {
                 WriteLiteral(" <i class=\"far fa-plus-square m-r-5 fa-lg\"></i> <span>Thêm tài khoản</span>");
             }
             );
@@ -235,7 +235,7 @@ using WebShop.Models
             );
             WriteLiteral("</td>\r\n");
             WriteLiteral("                                <td>\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfe161d1adb114814342d9c525df975d8201283ab743b2982d784bbc3bb35ac315822", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfe161d1adb114814342d9c525df975d8201283ab743b2982d784bbc3bb35ac315830", async() => {
                 WriteLiteral("<i class=\"far fa-eye m-r-5 fa-lg\"></i>Xem");
             }
             );
@@ -273,7 +273,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfe161d1adb114814342d9c525df975d8201283ab743b2982d784bbc3bb35ac318750", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfe161d1adb114814342d9c525df975d8201283ab743b2982d784bbc3bb35ac318758", async() => {
                 WriteLiteral("<i class=\"far fa-edit m-r-5 fa-lg\"></i>Sửa");
             }
             );
@@ -311,7 +311,7 @@ using WebShop.Models
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfe161d1adb114814342d9c525df975d8201283ab743b2982d784bbc3bb35ac321683", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cfe161d1adb114814342d9c525df975d8201283ab743b2982d784bbc3bb35ac321691", async() => {
                 WriteLiteral("<i class=\"far fa-trash-alt m-r-5 fa-lg\"></i>Xóa");
             }
             );

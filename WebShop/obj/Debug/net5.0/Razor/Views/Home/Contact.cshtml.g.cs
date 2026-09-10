@@ -22,10 +22,10 @@ using WebShop
 #line 2 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Views\_ViewImports.cshtml"
 using WebShop.Models
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"3e03d5bf886bea97b906b83eb0e55b8bdfa69039a078dff638b3fe1283c812d2", @"/Views/Home/Contact.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"2454517d99edfb35bbc85b1c078a3af78c358f2ed592677f7d34ebb910827d85", @"/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -115,7 +115,7 @@ using WebShop.Models
                     <div class=""row"">
                         <div class=""col-sm-8"">
                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3e03d5bf886bea97b906b83eb0e55b8bdfa69039a078dff638b3fe1283c812d27660", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3e03d5bf886bea97b906b83eb0e55b8bdfa69039a078dff638b3fe1283c812d27668", async() => {
                 WriteLiteral(@"
                                 <!--Grid row-->
                                 <div class=""row"">

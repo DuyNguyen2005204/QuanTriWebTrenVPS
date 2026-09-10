@@ -22,10 +22,10 @@ using WebShop
 #line 2 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Views\_ViewImports.cshtml"
 using WebShop.Models
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f", @"/Views/Checkout/Index.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"2454517d99edfb35bbc85b1c078a3af78c358f2ed592677f7d34ebb910827d85", @"/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -92,7 +92,7 @@ using WebShop.Models
 #nullable disable
 
             WriteLiteral("<main class=\"main-content\">\r\n    <div class=\"breadcrumb-area breadcrumb-height text-center\">\r\n        <div class=\"container h-100\">\r\n            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f8610", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f8618", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -123,9 +123,9 @@ using WebShop.Models
                     <div class=""card"">
                         <div class=""card-body"" style=""background-color:#FAEAEA"">
                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f10243", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f10251", async() => {
                 WriteLiteral("\r\n                                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f10558", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f10566", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -162,7 +162,7 @@ using WebShop.Models
                                                     <div class=""checkout-form-list"">
                                                         <label>Họ và tên</label>
                                                         ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f13138", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f13146", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -195,7 +195,7 @@ using WebShop.Models
                                                     <div class=""checkout-form-list"">
                                                         <label>Số điện thoại <span class=""required"">*</span></label>
                                                         ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f15623", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f15631", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -228,7 +228,7 @@ using WebShop.Models
                                                     <div class=""checkout-form-list"">
                                                         <label>Địa chỉ nhận hàng <span class=""required"">*</span></label>
                                                         ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f18109", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f18117", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -391,7 +391,7 @@ using WebShop.Models
                                                                         </div>
                                                                         <div class=""col-md-6"">
                                                                             ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f29115", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f29123", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -429,7 +429,7 @@ using WebShop.Models
                                                                         </div>
                    ");
                 WriteLiteral("                                                     <div class=\"col-md-6\">\r\n                                                                            ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f32529", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "49bf8e8202a620187abeda69ad2edada95ce1a4350f2de1c09dff061b0a9c44f32537", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

@@ -28,10 +28,10 @@ using WebShop.Models
 #line 1 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Areas\Admin\Views\HomeAdmin\Index.cshtml"
  using WebShop.Areas.Admin.Models
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"e0f2b6b9d41bc5c0ed69297d05fdd7debed7b6c84a087394508cf1823cfda4e1", @"/Areas/Admin/Views/HomeAdmin/Index.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"86394df345bb1769de711a5c8a6de44ad3d550d539317194276e3293e1ff5e4d", @"/Areas/Admin/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -272,7 +272,7 @@ using WebShop.Models
                     </div>
           ");
             WriteLiteral("          <div class=\" px-4 px-lg-5\">\r\n                        <div class=\"row gx-4 gx-lg-5 align-items-center my-5\">\r\n                            <div class=\"col-lg-7\">\r\n                                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e0f2b6b9d41bc5c0ed69297d05fdd7debed7b6c84a087394508cf1823cfda4e116796", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "e0f2b6b9d41bc5c0ed69297d05fdd7debed7b6c84a087394508cf1823cfda4e116804", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

@@ -22,10 +22,10 @@ using WebShop
 #line 2 "C:\Users\trant\OneDrive\Documents\Doantotnghiep_pyt_website.mvc\WebShop\Views\_ViewImports.cshtml"
 using WebShop.Models
 
-#line default
-#line hidden
 #nullable disable
     ;
+    #line default
+    #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"724b66516fcf841927e2d334474e78b81c86cd4452fed831ad83e5e1a13875e7", @"/Views/ShoppingCart/Index.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"2454517d99edfb35bbc85b1c078a3af78c358f2ed592677f7d34ebb910827d85", @"/Views/_ViewImports.cshtml")]
     #nullable restore
@@ -139,7 +139,7 @@ using WebShop.Models
                                                 <td class=""product__cart__item"">
                                                     <div class=""product__cart__item__pic"">
                                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "724b66516fcf841927e2d334474e78b81c86cd4452fed831ad83e5e1a13875e77008", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "724b66516fcf841927e2d334474e78b81c86cd4452fed831ad83e5e1a13875e77016", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -311,7 +311,7 @@ using WebShop.Models
                     <div class=""cart__discount"">
                         <h6>Mã giảm giá</h6>
                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "724b66516fcf841927e2d334474e78b81c86cd4452fed831ad83e5e1a13875e715850", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "724b66516fcf841927e2d334474e78b81c86cd4452fed831ad83e5e1a13875e715858", async() => {
                 WriteLiteral("\r\n                            <input type=\"text\" placeholder=\"Coupon code\">\r\n                            <button type=\"submit\"><i class=\"fas fa-ticket-alt m-r-5\"></i> Áp dụng</button>\r\n                        ");
             }
             );
